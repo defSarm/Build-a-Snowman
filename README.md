@@ -1,2 +1,2 @@
-# Build-a-Snowman2
-Project submitted for winter school coding competition.
+# Build-a-Snowman
+Project Winner for school winter-coding competition.
